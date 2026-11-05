@@ -3,8 +3,7 @@
   "client_name": "Gestao Financeira Pessoal (teste)",
   "redirect_uris": [
     "http://127.0.0.1:8765/callback",
-    "http://127.0.0.1:8000/belvo/callback",
-    "http://127.0.0.1:8001/belvo/callback"
+    "http://127.0.0.1:8000/belvo/callback"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
